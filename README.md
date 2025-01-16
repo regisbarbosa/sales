@@ -20,7 +20,8 @@ Ao analisar a categoria de Acessórios, observa-se que a loja de Portugal possui
 
 Outra possível explicação pode estar no desconto oferecido pela loja de Portugal, que parece ser maior. Isso é sugerido pelo fato de que, embora a loja online de Portugal seja uma das que mais vende, ela apresenta o quarto pior faturamento da categoria no ambiente online.
 
-![Visão Geral](analisegeral1.png) ![Visão Geral](analisegeral2.png)
+![Visão Geral](analisegeral1.png) ![Visão Geral2](analisegeral22.png)
+
 
 * Devoluções
 
