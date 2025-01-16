@@ -20,22 +20,26 @@ Ao analisar a categoria de Acessórios, observa-se que a loja de Portugal possui
 
 Outra possível explicação pode estar no desconto oferecido pela loja de Portugal, que parece ser maior. Isso é sugerido pelo fato de que, embora a loja online de Portugal seja uma das que mais vende, ela apresenta o quarto pior faturamento da categoria no ambiente online.
 
+
 ![Visão Geral](analisegeral1.png) ![Visão Geral2](analisegeral22.PNG)
 
 
 ### - Devoluções
 
-A categoria de Eletrônicos apresenta o maior número de devoluções. A loja da Alemanha possui o maior percentual, e o mouse wireless é o item mais devolvido, tanto na loja física quanto na loja online.
+- A categoria de Eletrônicos apresenta o maior número de devoluções. A loja da Alemanha possui o maior percentual, e o mouse wireless é o item mais devolvido, tanto na loja física quanto na loja online.
+  
 
 ![devol](alemanha.png) 
 
-Na análise das devoluções das lojas online, constata-se que 92% delas estão associadas a pedidos com prioridade de entrega classificada como "Low". Isso sugere que a demora na entrega leva os consumidores a desistirem da compra. Além disso, 72% das devoluções se originam no centro de distribuição de Roma, e a transportadora UPS teve 100% de suas entregas devolvidas. Esses dados indicam que pode haver problemas operacionais no centro de distribuição ou falhas na execução das entregas pela transportadora.
+- Na análise das devoluções das lojas online, constata-se que 92% delas estão associadas a pedidos com prioridade de entrega classificada como "Low". Isso sugere que a demora na entrega leva os consumidores a desistirem da compra. Além disso, 72% das devoluções se originam no centro de distribuição de Roma, e a transportadora UPS teve 100% de suas entregas devolvidas. Esses dados indicam que pode haver problemas operacionais no centro de distribuição ou falhas na execução das entregas pela transportadora.
+  
 
 ![devol](roma.png)
 
-Na loja física, apesar de o percentual de devoluções ser ligeiramente menor em comparação às lojas online, a quantidade total de devoluções é maior. Como solucionar essa questão? Pode ser que os produtos não apresentem uma qualidade satisfatória ou que informações incorretas estejam sendo passadas pelos vendedores. Seria interessante realizar uma análise mais aprofundada desses dois cenários.
+- Na loja física, apesar de o percentual de devoluções ser ligeiramente menor em comparação às lojas online, a quantidade total de devoluções é maior. Como solucionar essa questão? Pode ser que os produtos não apresentem uma qualidade satisfatória ou que informações incorretas estejam sendo passadas pelos vendedores. Seria interessante realizar uma análise mais aprofundada desses dois cenários.
+  
 
-![devol].(online.png)
+![devol](online.png)
 
 
 
