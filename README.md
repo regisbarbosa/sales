@@ -1,5 +1,5 @@
 # sales
-Dashboard de Vendas
+Dashboard de Vendas feito no Power BI.
 
 ## Descrição
 Fiz esse relatório no Power BI para treinar.
