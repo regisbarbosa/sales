@@ -27,9 +27,11 @@ Outra possível explicação pode estar no desconto oferecido pela loja de Portu
 
 A categoria de Eletrônicos apresenta o maior número de devoluções. A loja da Alemanha possui o maior percentual, e o mouse wireless é o item mais devolvido, tanto na loja física quanto na loja online.
 
-![devol](mouse.png) 
+![devol](alemanha.png) 
 
 Na análise das devoluções das lojas online, constata-se que 92% delas estão associadas a pedidos com prioridade de entrega classificada como "Low". Isso sugere que a demora na entrega leva os consumidores a desistirem da compra. Além disso, 72% das devoluções se originam no centro de distribuição de Roma, e a transportadora UPS teve 100% de suas entregas devolvidas. Esses dados indicam que pode haver problemas operacionais no centro de distribuição ou falhas na execução das entregas pela transportadora.
+
+![devol](roma.png)
 
 Nas lojas físicas, o percentual de devoluções é ligeiramente menor em relação às online, mas o número absoluto de devoluções é maior. É possível que isso esteja relacionado à qualidade dos produtos ou a informações inadequadas fornecidas pelos vendedores. Seria interessante aprofundar a análise nesses dois aspectos.
 
