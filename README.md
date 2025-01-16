@@ -4,6 +4,7 @@ Dashboard de Vendas feito no Power BI.
 ## Descrição
 Fiz esse relatório no Power BI para treinar.
 A base de dados foi baixada no Kaggle. 
+- Link Power BI online: https://bit.ly/3PDCcRR 
 - Link: https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset?resource=download
 
 ### Tratamento no Python
