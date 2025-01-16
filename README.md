@@ -26,7 +26,7 @@ Outra possível explicação pode estar no desconto oferecido pela loja de Portu
 ### - Devoluções
 
 A categoria de Eletrônicos apresenta o maior volume de devoluções. Entre os produtos, o Mouse Wireless é o mais devolvido, tanto nas lojas físicas quanto nas lojas online.
-![devol](de
+![devol](.png) 
 
 Na análise das devoluções das lojas online, constata-se que 92% delas estão associadas a pedidos com prioridade de entrega classificada como "Low". Isso sugere que a demora na entrega leva os consumidores a desistirem da compra. Além disso, 72% das devoluções se originam no centro de distribuição de Roma, e a transportadora UPS teve 100% de suas entregas devolvidas. Esses dados indicam que pode haver problemas operacionais no centro de distribuição ou falhas na execução das entregas pela transportadora.
 
