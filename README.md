@@ -3,7 +3,8 @@ Dashboard de Vendas
 
 ## Descrição
 Fiz esse relatório no Power BI para treinar.
-A base de dados foi baixada no Kaggle. Link: https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset?resource=download
+A base de dados foi baixada no Kaggle. 
+- Link: https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset?resource=download
 
 ### Tratamento no Python
 Antes de Iniciar no relatório no Power BI, tratei a base de dados no Python. 
