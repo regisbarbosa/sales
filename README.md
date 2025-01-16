@@ -33,7 +33,10 @@ Na análise das devoluções das lojas online, constata-se que 92% delas estão 
 
 ![devol](roma.png)
 
-Nas lojas físicas, o percentual de devoluções é ligeiramente menor em relação às online, mas o número absoluto de devoluções é maior. É possível que isso esteja relacionado à qualidade dos produtos ou a informações inadequadas fornecidas pelos vendedores. Seria interessante aprofundar a análise nesses dois aspectos.
+Na loja física, apesar de o percentual de devoluções ser ligeiramente menor em comparação às lojas online, a quantidade total de devoluções é maior. Como solucionar essa questão? Pode ser que os produtos não apresentem uma qualidade satisfatória ou que informações incorretas estejam sendo passadas pelos vendedores. Seria interessante realizar uma análise mais aprofundada desses dois cenários.
+
+![devol].(online.png)
+
 
 
 
