@@ -57,9 +57,12 @@ Meta atingida em todas as categorias, com exceção de "Apparel", que, apesar de
 
 ![periodo](periodo3.png)
 
-#### Resultado final: O faturamento acumulado do mês foi de $58.583, representando um *crescimento de 21% acima da meta*.
 
-![periodo](resultadofinal)
+### Resultado final: O faturamento acumulado do mês foi de $58.583, representando um crescimento de 21% acima da meta.
+
+
+![periodo](resultadofinal.png)
+
 
 
 
