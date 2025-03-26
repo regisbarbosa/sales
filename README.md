@@ -18,10 +18,10 @@ Antes de Iniciar no relatório no Power BI, tratei a base de dados no Python.
 ### Análise de Meta x Real - Loja de Portugal (Agosto/2024)
 Foi estabelecida uma meta de crescimento de 10% em relação ao ano anterior para a loja de Portugal. A análise foi realizada por períodos de 10 dias ao longo do mês.
 
-- 1° Período (01/08 a 10/08)
-Meta: $15.504
+#### 1° Período (01/08 a 10/08)
+- Meta: $15.504
 
-Vendas Realizadas: $15.509 ✅ Meta atingida
+- Vendas Realizadas: $15.509 ✅ Meta atingida
 
 A categoria "Apparel" apresentou um problema significativo: o produto T-shirt não teve nenhuma venda. Possíveis causas incluem problemas com fornecedores, falhas na exposição do produto (caso seja loja física) ou baixa demanda.
 
@@ -29,10 +29,10 @@ O produto Office Chair, da categoria "Furniture", também ficou abaixo da meta, 
 
 Ação recomendada: Orientar a equipe para impulsionar as vendas desses produtos no próximo período.
 
-- 2° Período (11/08 a 20/08)
-Meta: $16.496
+#### 2° Período (11/08 a 20/08)
+- Meta: $16.496
 
-Vendas Realizadas: $17.640 ✅ Meta superada em 7%
+- Vendas Realizadas: $17.640 ✅ Meta superada em 7%
 
 A categoria "Accessories" teve desempenho fraco, com vendas 32% abaixo da meta. Isso indica necessidade de análise mais detalhada sobre estoque, precificação ou concorrência.
 
@@ -42,10 +42,10 @@ Acumulado até aqui: Vendas 3,6% acima da meta.
 
 Ação recomendada: Investigar o baixo desempenho de "Accessories" e ajustar estratégias de venda.
 
-- 3° Período (21/08 a 31/08)
+#### 3° Período (21/08 a 31/08)
 Meta atingida em todas as categorias, com exceção de "Apparel", que, apesar de apresentar melhora, ainda não alcançou o esperado. Isso pode indicar um problema sazonal, tornando necessário avaliar se é um produto viável para o período.
 
-Resultado final: O faturamento acumulado do mês foi de $58.583, representando um crescimento de 21% acima da meta.
+Resultado final: O faturamento acumulado do mês foi de $58.583, representando um **crescimento de 21% acima da meta**.
 
 ### Conclusão e Próximos Passos
 Apesar do bom desempenho geral, "Apparel" e "Accessories" foram as categorias mais críticas. Sugere-se um aprofundamento nas causas de baixo desempenho para evitar impactos futuros.
