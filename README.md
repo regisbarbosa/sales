@@ -29,6 +29,9 @@ O produto Office Chair, da categoria "Furniture", também ficou abaixo da meta, 
 
 Ação recomendada: Orientar a equipe para impulsionar as vendas desses produtos no próximo período.
 
+![periodo](periodo1.png)
+
+
 #### 2° Período (11/08 a 20/08)
 - Meta: $16.496
 
