@@ -45,10 +45,20 @@ Acumulado até aqui: Vendas 3,6% acima da meta.
 
 Ação recomendada: Investigar o baixo desempenho de "Accessories" e ajustar estratégias de venda.
 
+![periodo](periodo2.png)
+
+
 #### 3° Período (21/08 a 31/08)
+- Meta: $16.137
+
+- Vendas Realizadas: $25.420 ✅ Meta superada em 57%
+
 Meta atingida em todas as categorias, com exceção de "Apparel", que, apesar de apresentar melhora, ainda não alcançou o esperado. Isso pode indicar um problema sazonal, tornando necessário avaliar se é um produto viável para o período.
 
+![periodo](periodo3.png)
+
 Resultado final: O faturamento acumulado do mês foi de $58.583, representando um **crescimento de 21% acima da meta**.
+
 
 ### Conclusão e Próximos Passos
 Apesar do bom desempenho geral, "Apparel" e "Accessories" foram as categorias mais críticas. Sugere-se um aprofundamento nas causas de baixo desempenho para evitar impactos futuros.
