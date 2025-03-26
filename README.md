@@ -1,5 +1,5 @@
 # sales
-Dashboard de Vendas feito no Power BI.
+Dashboard de Vendas feito no Power BI e tratamento dos dados no Python.
 
 ## Descrição
 A base de dados foi baixada no Kaggle. 
