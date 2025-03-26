@@ -65,14 +65,14 @@ Meta atingida em todas as categorias, com exceção de "Apparel", que, apesar de
 ![periodo](resultadofinal.png)
 
 
-- Os 3 períodos atingiram as metas. O Período de 21/08 a 31/08, vendeu bem acima do esperado atingindo 57% da meta.
+- Os 3 períodos atingiram as metas. O período de 21/08 a 31/08 vendeu bem acima do esperado, atingindo 57% da meta.
   
 
   ![periodo](colunasperiodo.png)
   
   
   
-- Lista dos produtos vendidos no mês de Agosto de 2024. Destaque para os produtos White Mug, Notebook e Backpack que juntos venderam o equivalente a 49% das vendas totais.
+- Lista dos produtos vendidos no mês de agosto de 2024. Destaque para os produtos White Mug, Notebook e Backpack, que juntos venderam o equivalente a 49% das vendas totais.
 
 
   ![periodo](produtos.png)
