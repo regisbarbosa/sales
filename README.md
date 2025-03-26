@@ -65,10 +65,14 @@ Meta atingida em todas as categorias, com exceção de "Apparel", que, apesar de
 ![periodo](resultadofinal.png)
 
 
-- Os 3 períodos atingiram as metas.
+- Os 3 períodos atingiram as metas. Destaque para o 3° Período que superou a Meta em 57%.
+  
 
   ![periodo](colunasperiodo.png)
   
+- Lista dos produtos vendidos no mês de Agosto de 2024. Destaque para os produtos White Mug, Notebook e Backpack que juntos venderam o equivalente a 49% das vendas totais.
+
+  ![periodo]
 
 ### Conclusão e Próximos Passos
 Apesar do bom desempenho geral, "Apparel" e "Accessories" foram as categorias mais críticas. Sugere-se um aprofundamento nas causas de baixo desempenho para evitar impactos futuros.
