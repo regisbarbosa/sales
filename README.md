@@ -67,6 +67,9 @@ Meta atingida em todas as categorias, com exceção de "Apparel", que, apesar de
 
 - Os 3 períodos atingiram as metas.
 
+  ![periodo](colunasperiodo.png)
+  
+
 ### Conclusão e Próximos Passos
 Apesar do bom desempenho geral, "Apparel" e "Accessories" foram as categorias mais críticas. Sugere-se um aprofundamento nas causas de baixo desempenho para evitar impactos futuros.
 
