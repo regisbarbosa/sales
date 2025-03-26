@@ -13,10 +13,10 @@ Antes de Iniciar no relatório no Power BI, tratei a base de dados no Python.
 3. Exclusão de dados faltantes.
 4. Produtos classificado em categorias erradas.
 
-### Breve análise do relatório
 
 ### Análise de Meta x Real - Loja de Portugal (Agosto/2024)
 Foi estabelecida uma meta de crescimento de 10% em relação ao ano anterior para a loja de Portugal. A análise foi realizada por períodos de 10 dias ao longo do mês.
+OBS: No Power BI Online, 
 
 #### 1° Período (01/08 a 10/08)
 - Meta: $15.504
@@ -65,14 +65,19 @@ Meta atingida em todas as categorias, com exceção de "Apparel", que, apesar de
 ![periodo](resultadofinal.png)
 
 
-- Os 3 períodos atingiram as metas. Destaque para o 3° Período que superou a Meta em 57%.
+- Os 3 períodos atingiram as metas. O Período de 21/08 a 31/08, vendeu bem acima do esperado atingindo 57% da meta.
   
 
   ![periodo](colunasperiodo.png)
   
+  
+  
 - Lista dos produtos vendidos no mês de Agosto de 2024. Destaque para os produtos White Mug, Notebook e Backpack que juntos venderam o equivalente a 49% das vendas totais.
 
-  ![periodo]
+
+  ![periodo](produtos.png)
+  
+  
 
 ### Conclusão e Próximos Passos
 Apesar do bom desempenho geral, "Apparel" e "Accessories" foram as categorias mais críticas. Sugere-se um aprofundamento nas causas de baixo desempenho para evitar impactos futuros.
