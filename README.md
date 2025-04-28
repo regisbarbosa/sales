@@ -66,6 +66,7 @@ Meta atingida em todas as categorias, com exceção de "Apparel", que, apesar de
 
 
 - Os 3 períodos atingiram as metas. O período de 21/08 a 31/08 vendeu bem acima do esperado, atingindo 57% da meta.
+- OBS: Há Tooltips nesse gráfico.
   
 
   ![periodo](colunasperiodo.png)
