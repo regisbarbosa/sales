@@ -77,7 +77,7 @@ Meta atingida em todas as categorias, com exceção de "Apparel", que, apesar de
 - Os Tooltips mostram informações por período. O Tooltip abaixo contém informações do Período 2.
   
 
-  ![periodo](tooltip github.png)
+  ![periodo](tooltipgithub.png)
   
   
 - Lista dos produtos vendidos no mês de agosto de 2024. Destaque para os produtos White Mug, Notebook e Backpack, que juntos venderam o equivalente a 49% das vendas totais.
