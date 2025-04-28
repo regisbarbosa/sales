@@ -72,10 +72,10 @@ Meta atingida em todas as categorias, com exceção de "Apparel", que, apesar de
 
 
   ![periodo](colunasperiodo.png)
-  
+
   
 - Os Tooltips mostram informações por período. O Tooltip abaixo contém informações do Período 2.
-  
+      
 
   ![periodo](tooltipgithub.png)
   
