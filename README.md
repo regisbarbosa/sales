@@ -18,6 +18,8 @@ Antes de Iniciar no relatório no Power BI, tratei a base de dados no Python.
 Foi estabelecida uma meta de crescimento de 10% em relação ao ano anterior para a loja de Portugal. A análise foi realizada por períodos de 10 dias ao longo do mês.
 OBS: Os filtros "País" e "Mês/Ano' estão bloqueado, só é possível alterar o filtro "Período de 10 dias".
 
+![periodo]
+
 #### 1° Período (01/08 a 10/08)
 - Meta: $15.504
 
