@@ -5,6 +5,8 @@ Dashboard de Vendas feito no Power BI e tratamento dos dados no Python.
 A base de dados foi baixada no Kaggle. 
 - Link Power BI online: https://bit.ly/3PDCcRR 
 - Link: https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset?resource=download
+  
+---
 
 ### Tratamento no Python
 Antes de Iniciar no relatório no Power BI, tratei a base de dados no Python. 
@@ -13,6 +15,7 @@ Antes de Iniciar no relatório no Power BI, tratei a base de dados no Python.
 3. Exclusão de dados faltantes.
 4. Produtos classificados em categorias erradas.
 
+---
 
 ### Análise de Meta x Real - Loja de Portugal (Agosto/2024)
 Foi estabelecida uma meta de crescimento de 10% em relação ao ano anterior para a loja de Portugal. A análise foi realizada por períodos de 10 dias ao longo do mês.
@@ -59,6 +62,7 @@ Meta atingida em todas as categorias, com exceção de "Apparel", que, apesar de
 
 ![periodo](periodo3.png)
 
+---
 
 ### Resultado final: 
 - O faturamento acumulado do mês foi de $58.583, representando um crescimento de 21% acima da meta, ou o faturamento atingiu 121% em relação a meta.
@@ -86,6 +90,8 @@ Meta atingida em todas as categorias, com exceção de "Apparel", que, apesar de
 
 
   ![periodo](produtos.png)
+
+  ---
   
   
 
